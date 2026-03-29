@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bot-python",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python 120666.py"
+  }
+}
